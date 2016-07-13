@@ -9,8 +9,8 @@ language_tabs:
 
 toc_footers:
   - <a href='http://plants.usda.gov/java/'>USDA Plants Database</a>
-  - <a href='https://github.com/ropensci/'>rOpenSci @ GitHub</a>
-  - <a href='https://github.com/ropensci/fishbaseapidocs'>Contribute to these docs</a>
+  - <a href='https://plantsdb.xyz'>plantsdb API</a>
+  - <a href='https://github.com/sckott/fishbaseapidocs'>Contribute to these docs</a>
   - <a href='http://recology.info/fishbasestatus'>API Status!</a>
 
 search: true
