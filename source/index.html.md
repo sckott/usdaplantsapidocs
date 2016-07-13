@@ -238,6 +238,10 @@ Shell examples below using <code>curl</code> sometimes use the command line tool
 a tool to parse JSON. If you don't want to use <code>jq</code> - just remove the pipe and
 everything after it. If you do, see <a href="https://stedolan.github.io/jq/">stedolan.github.io/jq</a>
 for installation and usage.
+<br><br>
+R examples below use the package <code>request</code>. Install it by doing <code>install.packages("request")</code> in an R session
+<br><br>
+Ruby examples below use the gems <code>faraday</code> and <code>multi_json</code>. Install them by doing <code>gem install faraday multi_json</code> on the command line
 </aside>
 
 ## Root
